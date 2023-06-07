@@ -1,4 +1,4 @@
-package Classes;
+package JavaTest;
 
 public class stu {
     //instance variable
